@@ -4,7 +4,8 @@
 
 <img  align="right" alt="statistics" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpm-95&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=ayu-mirage" alt="Rodrigos Github Stats"/>
 
-- 🌱 I am currently learning more about backend development.
+- 🧔 I am a software engineering student.
+- 🌱 I am currently learning more about devops.
 - 📫 What is the best way to contact me? agenda@rodrigodev.online
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rpm-95)
