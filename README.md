@@ -5,7 +5,7 @@
 <img  align="right" alt="statistics" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perotedev&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=ayu-mirage" alt="Rodrigos Github Stats"/>
 
 - 🧔 I am a software engineering student.
-- 🌱 I am currently learning more about devops.
+- 🌱 I am currently learning Flutter.
 - 📫 What is the best way to contact me? rodripema@hotmail.com
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perotedev)
@@ -20,7 +20,6 @@
 [![Android](https://img.shields.io/badge/Android-4EA94B?style=flat-square&logo=android&logoColor=white)]()
 [![Html](https://img.shields.io/badge/Html%205-F05032?style=flat-square&logo=html5&logoColor=white)]()
 [![Css](https://img.shields.io/badge/Css%203-007ACC?style=flat-square&logo=css3&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=python&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 [![Java](https://img.shields.io/badge/Java-326ce5.svg?&style=flat-square&logo=java&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
@@ -31,7 +30,6 @@
 [![Apache](https://img.shields.io/badge/Apache-326ce5?style=flat-square&logo=apache&logoColor=white)]()
 [![Mysql](https://img.shields.io/badge/Mysql-2CA5E0?style=flat-square&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
-[![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-CB3837?style=flat-square&logo=angular&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
@@ -40,6 +38,8 @@
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
 
+<!-- [![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white)]() -->
+<!-- [![Python](https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=python&logoColor=white)]() -->
 <!-- <img src="https://imgur.com/rilHVxA.png"/>  -->
 
 <!--
