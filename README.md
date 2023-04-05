@@ -21,7 +21,7 @@
 [![Html](https://img.shields.io/badge/Html%205-F05032?style=flat-square&logo=html5&logoColor=white)]()
 [![Css](https://img.shields.io/badge/Css%203-007ACC?style=flat-square&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
-[![Java](https://img.shields.io/badge/Java-326ce5.svg?&style=flat-square&logo=java&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-CB3837?&style=flat-square&logo=openjdk&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
 [![Php](https://img.shields.io/badge/PHP-007ACC?style=flat-square&logo=php&logoColor=white)]()
 [![Json](https://img.shields.io/badge/Json-F7DF1E?style=flat-square&logo=json&logoColor=black)]()
