@@ -5,7 +5,7 @@
 <img  align="right" alt="statistics" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perotedev&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=ayu-mirage" alt="Rodrigos Github Stats"/>
 
 - 🧔 I am a software engineering student.
-- 🌱 I am currently learning Flutter.
+- 🌱 I am currently learning Spring Boot.
 - 📫 What is the best way to contact me? rodripema@hotmail.com
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perotedev)
@@ -37,6 +37,7 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)]()
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-43853D?&style=flat-square&logo=spring-boot&logoColor=white)]()
 
 <!-- [![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white)]() -->
 <!-- [![Python](https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=python&logoColor=white)]() -->
