@@ -11,8 +11,8 @@
 - 🌱 I am currently learning Spring Boot.
 - 📫 What is the best way to contact me? rodripema@hotmail.com
 
+<!-- [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.fb.com/perotedev/) -->
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perotedev)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.fb.com/perotedev/)
 [![Instagram](https://img.shields.io/badge/Follow%20@perotedev-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perotedev/)
 
 
