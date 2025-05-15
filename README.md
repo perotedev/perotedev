@@ -7,8 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perotedev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-- 🧔 I am a software engineering student.
-- 🌱 I am currently learning Spring Boot.
+- 🧔 I am a graduated software engineering.
+- 🌱 Postgraduate studies in Information Security and Data Science.
 - 📫 What is the best way to contact me? rodripema@hotmail.com
 
 <!-- [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.fb.com/perotedev/) -->
@@ -41,6 +41,7 @@
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-43853D?&style=flat-square&logo=spring-boot&logoColor=white)]()
+[![Fast API](https://img.shields.io/badge/FastAPI-43853D?&style=flat-square&logo=fast-api&logoColor=white)]()
 
 <!-- [![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white)]() -->
 <!-- [![Python](https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=python&logoColor=white)]() -->
