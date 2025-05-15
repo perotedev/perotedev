@@ -41,7 +41,7 @@
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-43853D?&style=flat-square&logo=spring-boot&logoColor=white)]()
-[![Fast API](https://img.shields.io/badge/FastAPI-43853D?&style=flat-square&logo=fast-api&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-43853D?style=flat-square&logo=fastapi&logoColor=white)]()
 
 <!-- [![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white)]() -->
 <!-- [![Python](https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=python&logoColor=white)]() -->
