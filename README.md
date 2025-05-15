@@ -33,7 +33,7 @@
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)]()
 [![Apache](https://img.shields.io/badge/Apache-326ce5?style=flat-square&logo=apache&logoColor=white)]()
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/en/docs/)
-[![Mysql](https://img.shields.io/badge/Mysql-2CA5E0?style=flat-square&logo=mysql&logoColor=white)]()[]
+[![Mysql](https://img.shields.io/badge/Mysql-2CA5E0?style=flat-square&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-CB3837?style=flat-square&logo=angular&logoColor=white)]()
