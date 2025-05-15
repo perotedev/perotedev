@@ -21,8 +21,9 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6C37?style=flat-square&logo=ubuntu&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-0077B5?style=flat-square&logo=linux&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-4EA94B?style=flat-square&logo=android&logoColor=white)]()
-[![Html](https://img.shields.io/badge/Html%205-F05032?style=flat-square&logo=html5&logoColor=white)]()
-[![Css](https://img.shields.io/badge/Css%203-007ACC?style=flat-square&logo=css3&logoColor=white)]()
+[![Html](https://img.shields.io/badge/Html-F05032?style=flat-square&logo=html5&logoColor=white)]()
+[![Css](https://img.shields.io/badge/Css-007ACC?style=flat-square&logo=css3&logoColor=white)]()
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/documentation)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 [![Java](https://img.shields.io/badge/Java-CB3837?&style=flat-square&logo=openjdk&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
@@ -31,7 +32,9 @@
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)]()
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)]()
 [![Apache](https://img.shields.io/badge/Apache-326ce5?style=flat-square&logo=apache&logoColor=white)]()
-[![Mysql](https://img.shields.io/badge/Mysql-2CA5E0?style=flat-square&logo=mysql&logoColor=white)]()
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/en/docs/)
+[![Mysql](https://img.shields.io/badge/Mysql-2CA5E0?style=flat-square&logo=mysql&logoColor=white)]()[]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-CB3837?style=flat-square&logo=angular&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)]()
@@ -42,6 +45,10 @@
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-43853D?&style=flat-square&logo=spring-boot&logoColor=white)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-43853D?style=flat-square&logo=fastapi&logoColor=white)]()
+[![Yii2](https://img.shields.io/badge/Yii2-0C4C8A?style=flat-square&logo=yii&logoColor=white)](https://www.yiiframework.com/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
 
 <!-- [![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white)]() -->
 <!-- [![Python](https://img.shields.io/badge/Python-00ADD8?style=flat-square&logo=python&logoColor=white)]() -->
