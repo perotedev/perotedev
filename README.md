@@ -16,7 +16,7 @@
 <!-- [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.fb.com/perotedev/) -->
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perotedev)
 [![Instagram](https://img.shields.io/badge/Follow%20@perotedev-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perotedev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--perote--mascarenhas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-perote-mascarenhas-2b2a582a7/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-perote-mascarenhas-2b2a582a7/)
 
 
 ## I code using
