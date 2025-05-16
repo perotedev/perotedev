@@ -21,7 +21,6 @@
 
 ## I code using
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6C37?style=flat-square&logo=ubuntu&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-0077B5?style=flat-square&logo=linux&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-4EA94B?style=flat-square&logo=android&logoColor=white)]()
 [![Html](https://img.shields.io/badge/Html-F05032?style=flat-square&logo=html5&logoColor=white)]()
