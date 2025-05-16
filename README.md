@@ -1,6 +1,7 @@
 # Hi there, I'm Rodrigo 
 
 ## I'm a Software Engineer
+<!--
 <div align="center">
   <a href="https://datastudio.google.com/reporting/ffb6f727-9421-4c8c-a545-9e33fe118a20/page/Sm3PB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perotedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -10,12 +11,12 @@
 - 🧔 I am a graduated software engineering.
 - 🌱 Postgraduate studies in Information Security and Data Science.
 - 📫 What is the best way to contact me? rodripema@hotmail.com
+-->
 
 <!-- [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.fb.com/perotedev/) -->
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perotedev)
 [![Instagram](https://img.shields.io/badge/Follow%20@perotedev-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perotedev/)
-[![LinkedIn](https://img.shields.io/badge/Follow%20@yourusername-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-perote-mascarenhas-2b2a582a7/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--perote--mascarenhas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-perote-mascarenhas-2b2a582a7/)
 
 
 ## I code using
